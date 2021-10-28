@@ -8,6 +8,9 @@
 # .tfvars files
 *.tfvars
 
+# dependency lock files
+*.terraform.lock.hcl
+
 # Inetllij Idea
 .idea
 *.iml
